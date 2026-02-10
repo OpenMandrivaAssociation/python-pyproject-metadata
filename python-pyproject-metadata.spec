@@ -1,7 +1,7 @@
 Name:		python-pyproject-metadata
-Version:	0.10.0
-Release:	2
-Source0:	https://files.pythonhosted.org/packages/source/p/pyproject_metadata/pyproject_metadata-%{version}.tar.gz
+Version:	0.11.0
+Release:	1
+Source0:	https://files.pythonhosted.org/packages/source/p/pyproject_metadata/pyproject_metadata-%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	PEP 621 metadata parsing
 URL:		https://pypi.org/project/pyproject-metadata/
 License:	MIT
